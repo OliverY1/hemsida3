@@ -294,7 +294,7 @@ if selected == "Hem":
     with col1:
         st.image("karim.jpg")
         if st.button("Karim"):
-            st.write("Min favorit kurd. Karim är den klantigaste av dem alla. Han har en förmåga att kliva rakt in i situationer utan att tänka och orsakar oavsiktliga skador och olyckor vart han än går. Hans närvaro är som en ticking time bomb av klumpighet.")
+            st.write("Min favorit Karim. Karim är den klantigaste av dem alla. Han har en förmåga att kliva rakt in i situationer utan att tänka och orsakar oavsiktliga skador och olyckor vart han än går. Hans närvaro är som en ticking time bomb av klumpighet.")
     
             
     with col2:
